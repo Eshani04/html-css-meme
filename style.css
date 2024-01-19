@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+    width: 50%;
+    margin: 5% 25% 25% 25%;
+   /* uppr ki line means the same as this part of code
+    margin-top: 5%;
+    margin-right: 25%;
+    margin-bottom: 25%;
+    margin-left: 25%;
+    */
+}
+
+h1{
+    color: antiquewhite;
+}
+
+p{
+    color: bisque;
+}
+
+img{
+    width: 100%;
+    color:antiquewhite;
+    border: 5px solid antiquewhite;
+}
